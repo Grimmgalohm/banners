@@ -1,0 +1,332 @@
+/*ARREGLOS DE COSAS GENERALES*/
+body
+{
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font: bolder;
+    margin: 0;
+}
+div {
+    width: 300px;
+    height: 250px;
+}
+/*H1*/
+h1{
+    width: 100%;
+    height: 35px;
+    color: #053C63;
+    font-family:'roboto:100', sans-serif;
+    font-weight: 10;
+    font-size: 30pt;
+    margin-left: 5%;
+}
+/*INICIA BANER 1*/
+.baner1{
+    background: #053C63;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 40px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} .baner1 img{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+}.baner1 p{
+    font-size: 40pt;
+    margin-left: 10%;
+    margin-bottom: 0%;
+    line-height: 32pt;
+}
+/*INICIA BANER 2*/
+.baner2{
+    background:#A5DAE3;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 55px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} .baner2 img.bestbuy1 {
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+} .baner2 img.intel{
+    position: absolute;
+    width: 75px;
+    top: 165px;
+    left: 20px;
+} .baner2 img.windows{
+    position: absolute;
+    width: 90px;
+    top: 173px;
+    left: 99px;
+} .baner2 p{
+    font-size: 30pt;
+    margin-left: 10%;
+    margin-bottom: 0%;
+    line-height: 16pt;
+    padding-top: 10pt;
+} 
+
+/*INICIA BANER 3*/
+.baner3{
+    background:#A5DAE3;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 25px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} .baner3 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+} .baner3 img.intel{
+    position: absolute;
+    width: 75px;
+    top: 125px;
+    left: 3px;
+} .baner3 img.surface{
+    position: absolute;
+    width: 264px;
+    top: 92px;
+    left: 106px;
+} .baner3 p{
+    font-size: 30pt;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    line-height: 24pt;
+}
+
+/*INICIA BANER 4*/
+.baner4{
+    background:#A5DAE3;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 25px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} .baner4 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+}.baner4 img.windows{
+    position: absolute;
+    width: 85px;
+    top: 140px;
+    left: 15px;
+}.baner4 img.surface{
+    position: absolute;
+    width: 224px;
+    top: 115px;
+    left: 134px;
+}.baner4 p{
+    font-size: 30pt;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    line-height: 24pt;
+}
+
+/*INICIA BANER 5*/
+.baner5{
+    background:#FECE2F;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 40px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}.baner5 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+}.baner5 p{
+    font-size: 30pt;
+    margin-left: 17%;
+    margin-bottom: 0%;
+    line-height: 26pt;
+    transform: scaleX(1.3)
+}
+
+/*INICIA BANER 6*/
+.baner6{
+    background:#053C63;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 25px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}.baner6 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    right: 10px;
+}.baner6 img.intel{
+    position: absolute;
+    width: 40px;
+    top: 220px;
+    left: 15px;
+}.baner6 img.windows{
+    position: absolute;
+    width: 40px;
+    top: 225px;
+    left: 60px;
+}.baner6 img.kiss{
+    position: absolute;
+    width: 240px;
+    top: 77px;
+    left: 119px;
+}.baner6 p.up{
+    font-size: 30pt;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    line-height: 25pt;
+}.baner6 p.mid{
+    font-size: 14pt;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    line-height: 13pt;
+}.baner6 p.low{
+    width: 55px; height: 0px; padding: 10px;
+    font-size: 8pt;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    line-height: 1pt;
+    border: 1px white solid;
+}.baner6 p.Legal{
+    font-size: 6pt;
+    margin-left: 88%;
+    margin-bottom: 0%;
+    line-height: 73pt;
+}
+
+/*INICIA BANER 7*/
+.baner7 {
+    width: 300px;
+    height: 50px;
+    background: #053C63;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} .baner7 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    left: 10px;
+} .baner7 p{
+    font-size: 15pt;
+    margin-left: 23%;
+    margin-bottom: 0%;
+    /*line-height: 26pt;*/
+}
+
+/*INICIA BANER 8*/
+.baner8{
+    width: 300px;
+    height: 50px;
+    background: #053C63;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 7px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}.baner8 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    left: 10px;
+}.baner8 img.intel{
+    position: absolute;
+    width: 40px;
+    top: 24px;
+    right: 110px;
+}.baner8 img.windows{
+    position: absolute;
+    width: 40px;
+    top: 30px;
+    right: 63px;
+}.baner8 p{
+    font-size: 15pt;
+    margin-left: 23%;
+    margin-bottom: 0%;
+    line-height: 14pt;
+}
+
+/*INICIA BANER 9*/
+.baner9{
+    width: 300px;
+    height: 50px;
+    background: #FECE2F;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 6px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}.baner9 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    left: 10px;
+}.baner9 img.surface{
+    position: absolute;
+    width: 75px;
+    top: 0px;
+    left: 235px;
+}.baner9 p{
+    font-size: 14pt;
+    margin-left: 23%;
+    margin-bottom: 0%;
+    line-height: 14pt;
+}
+
+/*INICIA BANER 10*/
+.baner10{
+    width: 300px;
+    height: 50px;
+    background: #053C63;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 11px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}.baner10 img.bestbuy{
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    left: 10px;
+}.baner10 img.surface{
+    position: absolute;
+    width: 75px;
+    top: 0px;
+    left: 235px;
+}.baner10 p.up{
+    font-size: 14pt;
+    margin-left: 23%;
+    margin-bottom: 0%;
+    line-height: 14pt;
+}.baner10 p.low{
+    font-size: 8pt;
+    margin-left: 23%;
+    margin-bottom: 0%;
+    line-height: 9pt;
+}
+
+/*Fin del CSS*/
